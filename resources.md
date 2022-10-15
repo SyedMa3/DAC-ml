@@ -13,4 +13,3 @@ Follow up for the session -
 - Search about Logistic Regression and learn about it.
 
 > Note: Next session we will be discussing Decision Trees and Random Forests.
-> 
